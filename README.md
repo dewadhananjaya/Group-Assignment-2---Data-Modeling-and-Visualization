@@ -27,8 +27,6 @@ This repository is the result of a group assignment for the **Data Modeling & Vi
 - **HTML5**: For the page structure.
 - **CSS3**: For visual design and styling.
 - **JavaScript**: For interactive tab navigation and dynamic display.
-- **Image Files (.jpg)**: To display data visualization graphics.
-- **Image File (.png)**: To display the Universitas Gunadarma logo.
 
 ---
 
