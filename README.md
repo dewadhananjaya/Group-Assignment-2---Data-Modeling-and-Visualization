@@ -33,7 +33,7 @@ This repository is the result of a group assignment for the **Data Modeling & Vi
 ## 🧩 Folder Structure
 
 ```
-├── kelompok2-PVD.html
+├── index.html
 ├── Universitas Gunadarma [KoleksiLogo.com].png
 ├── Visualisasi Dewa/
 │ ├── bar chart.jpg
@@ -71,7 +71,7 @@ This repository is the result of a group assignment for the **Data Modeling & Vi
 
 1. Download or clone this repository.
 2. Make sure all image files and the HTML file are in the correct directory structure.
-3. Open the `kelompok2-PVD.html` file in any modern web browser (Chrome, Edge, Firefox, etc.).
+3. Open the `index.html` file in any modern web browser (Chrome, Edge, Firefox, etc.).
 4. Click on the sidebar tabs to view each member’s visualizations.
 
 ---
