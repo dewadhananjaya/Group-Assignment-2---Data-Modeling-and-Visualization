@@ -6,8 +6,8 @@ This repository is the result of a group assignment for the **Data Modeling & Vi
 
 ## 🎯 Project Objectives
 
-- To present data analysis and visualizations through an interactive web interface.
-- To improve students' technical skills in using basic HTML, CSS, and JavaScript.
+- To present data visualizations through an interactive web interface.
+- To improve students technical skills in using basic HTML, CSS, and JavaScript.
 - To organize group work in a single, accessible digital platform.
 
 ---
